@@ -1,0 +1,1622 @@
+{
+    "UrlLocal": "italy_serie-a/2016-2017/2017/2016-10-02 - 21-45 AS Roma 2 - 1 Inter",
+    "predictions": [
+        {
+            "gameTime": "2 - 0:14",
+            "label": "Kick-off",
+            "position": 14500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 0:19",
+            "label": "Kick-off",
+            "position": 19500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 0:31",
+            "label": "Corner",
+            "position": 31500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 0:50",
+            "label": "Yellow card",
+            "position": 50500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 0:52",
+            "label": "Yellow card",
+            "position": 52500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 0:54",
+            "label": "Yellow card",
+            "position": 54500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 1:1",
+            "label": "Corner",
+            "position": 61500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 2:24",
+            "label": "Corner",
+            "position": 144500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 2:30",
+            "label": "Corner",
+            "position": 150500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 2:38",
+            "label": "Corner",
+            "position": 158500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 2:40",
+            "label": "Corner",
+            "position": 160500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 3:4",
+            "label": "Corner",
+            "position": 184500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 3:26",
+            "label": "Corner",
+            "position": 206500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 3:30",
+            "label": "Corner",
+            "position": 210500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 3:32",
+            "label": "Corner",
+            "position": 212500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 3:44",
+            "label": "Corner",
+            "position": 224500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 3:55",
+            "label": "Corner",
+            "position": 235500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 4:11",
+            "label": "Kick-off",
+            "position": 251500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 4:39",
+            "label": "Corner",
+            "position": 279500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 4:43",
+            "label": "Corner",
+            "position": 283500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 4:45",
+            "label": "Corner",
+            "position": 285500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 5:20",
+            "label": "Yellow card",
+            "position": 320500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 5:28",
+            "label": "Yellow card",
+            "position": 328500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 5:31",
+            "label": "Yellow card",
+            "position": 331500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 5:39",
+            "label": "Corner",
+            "position": 339500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 5:46",
+            "label": "Corner",
+            "position": 346500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 5:50",
+            "label": "Corner",
+            "position": 350500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 6:1",
+            "label": "Corner",
+            "position": 361500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 6:7",
+            "label": "Kick-off",
+            "position": 367500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 6:19",
+            "label": "Corner",
+            "position": 379500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 6:21",
+            "label": "Corner",
+            "position": 381500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 6:23",
+            "label": "Corner",
+            "position": 383500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 6:37",
+            "label": "Corner",
+            "position": 397500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 7:6",
+            "label": "Corner",
+            "position": 426500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 7:8",
+            "label": "Corner",
+            "position": 428500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 7:12",
+            "label": "Corner",
+            "position": 432500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 7:34",
+            "label": "Kick-off",
+            "position": 454500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 7:55",
+            "label": "Yellow card",
+            "position": 475500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 8:28",
+            "label": "Kick-off",
+            "position": 508500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 8:31",
+            "label": "Yellow card",
+            "position": 511500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 8:35",
+            "label": "Yellow card",
+            "position": 515500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 8:36",
+            "label": "Kick-off",
+            "position": 516500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 8:53",
+            "label": "Kick-off",
+            "position": 533500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 8:58",
+            "label": "Kick-off",
+            "position": 538500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 9:5",
+            "label": "Kick-off",
+            "position": 545500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 9:7",
+            "label": "Kick-off",
+            "position": 547500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 9:44",
+            "label": "Corner",
+            "position": 584500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 10:1",
+            "label": "Corner",
+            "position": 601500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 10:32",
+            "label": "Kick-off",
+            "position": 632500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 10:41",
+            "label": "Corner",
+            "position": 641500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 10:45",
+            "label": "Corner",
+            "position": 645500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 11:54",
+            "label": "Corner",
+            "position": 714500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 11:59",
+            "label": "Corner",
+            "position": 719500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 12:18",
+            "label": "Kick-off",
+            "position": 738500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 12:48",
+            "label": "Corner",
+            "position": 768500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 12:55",
+            "label": "Corner",
+            "position": 775500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 13:16",
+            "label": "Corner",
+            "position": 796500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 13:20",
+            "label": "Kick-off",
+            "position": 800500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 13:29",
+            "label": "Corner",
+            "position": 809500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 13:46",
+            "label": "Corner",
+            "position": 826500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 13:51",
+            "label": "Corner",
+            "position": 831500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 13:56",
+            "label": "Corner",
+            "position": 836500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 13:58",
+            "label": "Corner",
+            "position": 838500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 14:1",
+            "label": "Yellow card",
+            "position": 841500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 14:5",
+            "label": "Kick-off",
+            "position": 845500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 14:26",
+            "label": "Kick-off",
+            "position": 866500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 14:31",
+            "label": "Kick-off",
+            "position": 871500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 14:32",
+            "label": "Yellow card",
+            "position": 872500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 14:59",
+            "label": "Yellow card",
+            "position": 899500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 15:8",
+            "label": "Kick-off",
+            "position": 908500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 15:27",
+            "label": "Corner",
+            "position": 927500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 15:46",
+            "label": "Kick-off",
+            "position": 946500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 15:57",
+            "label": "Corner",
+            "position": 957500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 16:5",
+            "label": "Corner",
+            "position": 965500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 16:19",
+            "label": "Kick-off",
+            "position": 979500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 16:26",
+            "label": "Kick-off",
+            "position": 986500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 16:51",
+            "label": "Kick-off",
+            "position": 1011500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 16:54",
+            "label": "Kick-off",
+            "position": 1014500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 17:11",
+            "label": "Corner",
+            "position": 1031500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 17:19",
+            "label": "Kick-off",
+            "position": 1039500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 17:30",
+            "label": "Yellow card",
+            "position": 1050500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 18:18",
+            "label": "Corner",
+            "position": 1098500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 18:21",
+            "label": "Corner",
+            "position": 1101500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 18:25",
+            "label": "Corner",
+            "position": 1105500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 18:39",
+            "label": "Kick-off",
+            "position": 1119500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 18:43",
+            "label": "Kick-off",
+            "position": 1123500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 19:1",
+            "label": "Goal",
+            "position": 1141500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 19:4",
+            "label": "Corner",
+            "position": 1144500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 19:16",
+            "label": "Goal",
+            "position": 1156500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 19:17",
+            "label": "Corner",
+            "position": 1157500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 19:18",
+            "label": "Goal",
+            "position": 1158500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 20:1",
+            "label": "Corner",
+            "position": 1201500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 20:21",
+            "label": "Kick-off",
+            "position": 1221500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 20:41",
+            "label": "Kick-off",
+            "position": 1241500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 21:2",
+            "label": "Yellow card",
+            "position": 1262500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 21:14",
+            "label": "Corner",
+            "position": 1274500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 21:16",
+            "label": "Corner",
+            "position": 1276500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 21:21",
+            "label": "Corner",
+            "position": 1281500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 21:24",
+            "label": "Corner",
+            "position": 1284500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 21:27",
+            "label": "Corner",
+            "position": 1287500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 21:29",
+            "label": "Corner",
+            "position": 1289500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 21:32",
+            "label": "Corner",
+            "position": 1292500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 21:34",
+            "label": "Corner",
+            "position": 1294500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 21:37",
+            "label": "Corner",
+            "position": 1297500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 21:40",
+            "label": "Corner",
+            "position": 1300500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 21:43",
+            "label": "Kick-off",
+            "position": 1303500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 21:49",
+            "label": "Yellow card",
+            "position": 1309500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 21:57",
+            "label": "Yellow card",
+            "position": 1317500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 22:0",
+            "label": "Kick-off",
+            "position": 1320500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 22:8",
+            "label": "Kick-off",
+            "position": 1328500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 22:10",
+            "label": "Yellow card",
+            "position": 1330500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 22:14",
+            "label": "Yellow card",
+            "position": 1334500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 22:46",
+            "label": "Yellow card",
+            "position": 1366500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 23:2",
+            "label": "Kick-off",
+            "position": 1382500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 23:17",
+            "label": "Kick-off",
+            "position": 1397500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 23:38",
+            "label": "Corner",
+            "position": 1418500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 23:41",
+            "label": "Corner",
+            "position": 1421500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 23:46",
+            "label": "Kick-off",
+            "position": 1426500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 24:2",
+            "label": "Kick-off",
+            "position": 1442500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 24:20",
+            "label": "Yellow card",
+            "position": 1460500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 24:22",
+            "label": "Yellow card",
+            "position": 1462500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 24:24",
+            "label": "Yellow card",
+            "position": 1464500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 24:30",
+            "label": "Kick-off",
+            "position": 1470500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 25:13",
+            "label": "Corner",
+            "position": 1513500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 25:15",
+            "label": "Corner",
+            "position": 1515500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 25:20",
+            "label": "Corner",
+            "position": 1520500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 25:24",
+            "label": "Kick-off",
+            "position": 1524500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 25:39",
+            "label": "Kick-off",
+            "position": 1539500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 25:56",
+            "label": "Corner",
+            "position": 1556500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 26:9",
+            "label": "Corner",
+            "position": 1569500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 26:12",
+            "label": "Corner",
+            "position": 1572500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 26:14",
+            "label": "Corner",
+            "position": 1574500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 26:22",
+            "label": "Corner",
+            "position": 1582500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 26:38",
+            "label": "Yellow card",
+            "position": 1598500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 27:9",
+            "label": "Corner",
+            "position": 1629500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 27:17",
+            "label": "Yellow card",
+            "position": 1637500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 27:20",
+            "label": "Yellow card",
+            "position": 1640500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 27:55",
+            "label": "Kick-off",
+            "position": 1675500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 28:22",
+            "label": "Kick-off",
+            "position": 1702500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 28:25",
+            "label": "Kick-off",
+            "position": 1705500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 28:28",
+            "label": "Kick-off",
+            "position": 1708500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 28:31",
+            "label": "Corner",
+            "position": 1711500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 28:49",
+            "label": "Yellow card",
+            "position": 1729500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 28:50",
+            "label": "Kick-off",
+            "position": 1730500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 28:53",
+            "label": "Kick-off",
+            "position": 1733500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 29:10",
+            "label": "Yellow card",
+            "position": 1750500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 29:35",
+            "label": "Corner",
+            "position": 1775500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 29:46",
+            "label": "Corner",
+            "position": 1786500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 29:48",
+            "label": "Yellow card",
+            "position": 1788500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 29:50",
+            "label": "Corner",
+            "position": 1790500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 29:52",
+            "label": "Corner",
+            "position": 1792500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 29:53",
+            "label": "Yellow card",
+            "position": 1793500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 29:55",
+            "label": "Yellow card",
+            "position": 1795500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 29:58",
+            "label": "Yellow card",
+            "position": 1798500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 30:4",
+            "label": "Yellow card",
+            "position": 1804500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 30:16",
+            "label": "Yellow card",
+            "position": 1816500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 30:43",
+            "label": "Kick-off",
+            "position": 1843500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 30:45",
+            "label": "Kick-off",
+            "position": 1845500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 30:50",
+            "label": "Yellow card",
+            "position": 1850500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 31:35",
+            "label": "Yellow card",
+            "position": 1895500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 31:38",
+            "label": "Yellow card",
+            "position": 1898500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 31:41",
+            "label": "Yellow card",
+            "position": 1901500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 31:45",
+            "label": "Kick-off",
+            "position": 1905500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 32:23",
+            "label": "Kick-off",
+            "position": 1943500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 32:28",
+            "label": "Kick-off",
+            "position": 1948500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 32:34",
+            "label": "Kick-off",
+            "position": 1954500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 32:53",
+            "label": "Kick-off",
+            "position": 1973500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 33:3",
+            "label": "Corner",
+            "position": 1983500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 33:8",
+            "label": "Corner",
+            "position": 1988500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 33:13",
+            "label": "Yellow card",
+            "position": 1993500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 33:21",
+            "label": "Yellow card",
+            "position": 2001500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 33:27",
+            "label": "Kick-off",
+            "position": 2007500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 33:58",
+            "label": "Corner",
+            "position": 2038500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 34:23",
+            "label": "Corner",
+            "position": 2063500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 34:44",
+            "label": "Yellow card",
+            "position": 2084500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 34:48",
+            "label": "Kick-off",
+            "position": 2088500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 34:51",
+            "label": "Kick-off",
+            "position": 2091500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 34:53",
+            "label": "Yellow card",
+            "position": 2093500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 34:59",
+            "label": "Corner",
+            "position": 2099500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 35:5",
+            "label": "Kick-off",
+            "position": 2105500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 35:7",
+            "label": "Kick-off",
+            "position": 2107500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 35:9",
+            "label": "Kick-off",
+            "position": 2109500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 35:11",
+            "label": "Kick-off",
+            "position": 2111500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 35:34",
+            "label": "Kick-off",
+            "position": 2134500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 35:37",
+            "label": "Kick-off",
+            "position": 2137500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 36:20",
+            "label": "Corner",
+            "position": 2180500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 36:40",
+            "label": "Yellow card",
+            "position": 2200500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 36:46",
+            "label": "Yellow card",
+            "position": 2206500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 36:48",
+            "label": "Yellow card",
+            "position": 2208500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 36:51",
+            "label": "Corner",
+            "position": 2211500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 36:55",
+            "label": "Corner",
+            "position": 2215500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 37:18",
+            "label": "Corner",
+            "position": 2238500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 37:29",
+            "label": "Kick-off",
+            "position": 2249500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 37:37",
+            "label": "Corner",
+            "position": 2257500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 37:43",
+            "label": "Corner",
+            "position": 2263500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 37:45",
+            "label": "Corner",
+            "position": 2265500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 37:49",
+            "label": "Corner",
+            "position": 2269500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 38:11",
+            "label": "Corner",
+            "position": 2291500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 38:14",
+            "label": "Corner",
+            "position": 2294500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 38:16",
+            "label": "Corner",
+            "position": 2296500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 38:20",
+            "label": "Corner",
+            "position": 2300500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 38:35",
+            "label": "Kick-off",
+            "position": 2315500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 38:37",
+            "label": "Corner",
+            "position": 2317500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 38:43",
+            "label": "Corner",
+            "position": 2323500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 38:45",
+            "label": "Corner",
+            "position": 2325500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 38:49",
+            "label": "Yellow card",
+            "position": 2329500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 38:59",
+            "label": "Corner",
+            "position": 2339500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 39:12",
+            "label": "Yellow card",
+            "position": 2352500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 39:14",
+            "label": "Kick-off",
+            "position": 2354500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 39:42",
+            "label": "Corner",
+            "position": 2382500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 39:47",
+            "label": "Corner",
+            "position": 2387500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 40:6",
+            "label": "Kick-off",
+            "position": 2406500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 40:17",
+            "label": "Kick-off",
+            "position": 2417500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 40:25",
+            "label": "Kick-off",
+            "position": 2425500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 40:28",
+            "label": "Yellow card",
+            "position": 2428500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 40:34",
+            "label": "Yellow card",
+            "position": 2434500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 40:52",
+            "label": "Kick-off",
+            "position": 2452500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 41:22",
+            "label": "Kick-off",
+            "position": 2482500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 41:28",
+            "label": "Corner",
+            "position": 2488500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 41:31",
+            "label": "Corner",
+            "position": 2491500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 41:38",
+            "label": "Yellow card",
+            "position": 2498500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 41:41",
+            "label": "Kick-off",
+            "position": 2501500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 41:49",
+            "label": "Kick-off",
+            "position": 2509500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 42:6",
+            "label": "Kick-off",
+            "position": 2526500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 42:10",
+            "label": "Kick-off",
+            "position": 2530500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 42:31",
+            "label": "Yellow card",
+            "position": 2551500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 42:52",
+            "label": "Corner",
+            "position": 2572500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 42:55",
+            "label": "Corner",
+            "position": 2575500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 43:57",
+            "label": "Yellow card",
+            "position": 2637500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 44:1",
+            "label": "Kick-off",
+            "position": 2641500,
+            "half": "2",
+            "confidence": 0.5
+        },
+        {
+            "gameTime": "2 - 44:18",
+            "label": "Kick-off",
+            "position": 2658500,
+            "half": "2",
+            "confidence": 0.5
+        }
+    ]
+}
